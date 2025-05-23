@@ -1,0 +1,29 @@
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\bin\Debug\1062027_HW4_2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\obj\Debug\1062027_HW4_2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\obj\Debug\_1062027_HW4_2.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\obj\Debug\_1062027_HW4_2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\obj\Debug\1062027_HW4_2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\bin\Debug\1062027_HW4_2.exe
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\bin\Debug\1062027_HW4_2.pdb
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\obj\Debug\1062027_HW4_2.exe
+c:\users\user\documents\visual studio 2015\Projects\1062027_HW4_2\1062027_HW4_2\obj\Debug\1062027_HW4_2.pdb
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\1062027_HW4_2.exe.config
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\1062027_HW4_2.exe
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\1062027_HW4_2.pdb
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.csprojAssemblyReference.cache
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\_1062027_HW4_2.Form1.resources
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\_1062027_HW4_2.Properties.Resources.resources
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.csproj.GenerateResource.cache
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.csproj.CoreCompileInputs.cache
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.exe
+E:\桌面\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.pdb
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\1062027_HW4_2.exe.config
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\1062027_HW4_2.exe
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\1062027_HW4_2.pdb
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.csproj.AssemblyReference.cache
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\_1062027_HW4_2.Form1.resources
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\_1062027_HW4_2.Properties.Resources.resources
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.csproj.GenerateResource.cache
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.csproj.CoreCompileInputs.cache
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.exe
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\1062027_HW4_2.pdb

@@ -1,0 +1,10 @@
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\Ordering_Interface.exe.config
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\Ordering_Interface.exe
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\bin\Debug\Ordering_Interface.pdb
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\Ordering_Interface.csproj.AssemblyReference.cache
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\Ordering_Interface.Form1.resources
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\Ordering_Interface.Properties.Resources.resources
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\Ordering_Interface.csproj.GenerateResource.cache
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\Ordering_Interface.csproj.CoreCompileInputs.cache
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\Ordering_Interface.exe
+F:\舊電腦重要資料\作品集\程式\視窗\訂貨程式\1062027_HW4_2\obj\Debug\Ordering_Interface.pdb
